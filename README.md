@@ -1,23 +1,23 @@
 <h1 align="center">Hi 👋, I'm vgiamp10</h1>
 <h3 align="center">im a developer i think</h3>
 
-- 🔭 I’m currently working on **nothing**
+- 🔭 I’m currently working on nothing
 
-- 🌱 I’m currently learning **nothing**
+- 🌱 I’m currently learning nothing
 
-- 👯 I’m looking to collaborate on **nothing**
+- 👯 I’m looking to collaborate on nothing
 
-- 🤝 I’m looking for help with **basic stuff**
+- 🤝 I’m looking for help with basic stuff
 
-- 👨‍💻 All of my projects are available at [this github](this github)
+- 👨‍💻 All of my projects are available at this github
 
-- 📝 I regularly write articles on [nowhere](nowhere)
+- 📝 I regularly write articles on nowhere
 
-- 💬 Ask me about **basic stuff**
+- 💬 Ask me about basic stuff
 
-- 📫 How to reach me **uhh**
+- 📫 How to reach me: uhh
 
-- 📄 Know about my experiences [no](no)
+- 📄 Know about my experiences: no
 
 - ⚡ Fun fact **i suck at each programming language so don't contact me im the worst person to ask**
 
